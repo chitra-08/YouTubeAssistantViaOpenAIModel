@@ -4,5 +4,8 @@ A small youtube assistant bot that reads the youtube video link and summarize th
 
 
 
-https://github.com/user-attachments/assets/059f58cf-e885-408c-b1bc-47b3a5d80cc0
+
+
+https://github.com/user-attachments/assets/249385ae-c2b7-4c25-9ccd-a42ba45afc65
+
 
